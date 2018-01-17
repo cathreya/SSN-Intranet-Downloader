@@ -1,30 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @cathreya
-
-0
-0
-
-    2
-
-cathreya/SSN-Intranet-Downloader forked from py-ranoid/SSN-Intranet-Downloader
-Code
-Pull requests 0
-Projects 0
-Wiki
-Insights
-Settings
-SSN-Intranet-Downloader/ssn.py
-e337d5b a day ago
-@py-ranoid py-ranoid Added utils
-executable file 316 lines (261 sloc) 10.4 KB
 from bs4 import BeautifulSoup
 import urllib2
 import urllib
@@ -340,18 +313,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
