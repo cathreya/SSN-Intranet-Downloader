@@ -291,7 +291,7 @@ def main():
                 folder_path = os.path.join(secpath, subname)
                 dirCheck(folder_path)
                 replacements = DownloadFiles(
-                    file_links, folder_path, ('pdf', 'ppt', 'doc', 'pptx', 'docx'))
+                    file_links, folder_path, ('pdf', 'ppt', 'doc', 'pptx', 'docx','txt'))
             else:
                 #   If file_links is empty
                 print 'No links found.'
